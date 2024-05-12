@@ -9,6 +9,7 @@
     <color name="secondary">#FF8BC34A</color>
     <color name="highlight">#FFD352</color>
     <color name="hint">#777575</color>
+
     <color name="btn">#222121</color>
 
 </resources>
