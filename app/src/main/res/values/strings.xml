@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MY_TASK</string>
+    <string name="item_task">Task Item</string>
+
+    <string name="name">Name:</string>
+    <string name="description">Description:</string>
+    <string name="priority">Priority:</string>
+    <string name="deadline">Deadline:</string>
+
+    <string-array name="priorities">
+        <item><b>High</b></item>
+        <item><b>Medium</b></item>
+        <item><b>Low</b></item>
+    </string-array>
+
+</resources>
